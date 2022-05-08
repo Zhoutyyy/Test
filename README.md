@@ -16,5 +16,12 @@
 
 运行时间可能较长，请耐心等待。
 
-#依赖的库
-tensorflow: 提供机器学习框架以及训练数据
+# 依赖的库
+tensorflow: 提供机器学习框架
+
+tensorflow_datasets: 提供训练数据
+
+numpy: 提供数学运算
+
+matplotlib.pyplot: 提供图像展示
+
